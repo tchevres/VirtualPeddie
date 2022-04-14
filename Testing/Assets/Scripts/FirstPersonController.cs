@@ -24,6 +24,8 @@ namespace StarterAssets
 		[Space(10)]
 		[Tooltip("The height the player can jump")]
 		public float JumpHeight = 1.2f;
+		[Tooltip("The maximum amount of jumps the player can make in a row")]
+		public int MaxJumps = 1;
 		[Tooltip("The character uses its own gravity value. The engine default is -9.81f")]
 		public float Gravity = -15.0f;
 
@@ -59,6 +61,7 @@ namespace StarterAssets
 		private float _rotationVelocity;
 		private float _verticalVelocity;
 		private float _terminalVelocity = 53.0f;
+		private int countJumps = 0;
 
 		// timeout deltatime
 		private float _jumpTimeoutDelta;
@@ -70,7 +73,7 @@ namespace StarterAssets
 		private GameObject _mainCamera;
 
 		private const float _threshold = 0.01f;
-		
+
 		private bool IsCurrentDeviceMouse => _playerInput.currentControlScheme == "KeyboardMouse";
 
 		private void Awake()
@@ -119,7 +122,7 @@ namespace StarterAssets
 			{
 				//Don't multiply mouse input by Time.deltaTime
 				float deltaTimeMultiplier = IsCurrentDeviceMouse ? 1.0f : Time.deltaTime;
-				
+
 				_cinemachineTargetPitch += _input.look.y * RotationSpeed * deltaTimeMultiplier;
 				_rotationVelocity = _input.look.x * RotationSpeed * deltaTimeMultiplier;
 
@@ -181,12 +184,16 @@ namespace StarterAssets
 			_controller.Move(inputDirection.normalized * (_speed * Time.deltaTime) + new Vector3(0.0f, _verticalVelocity, 0.0f) * Time.deltaTime);
 		}
 
+
 		private void JumpAndGravity()
 		{
 			if (Grounded)
 			{
 				// reset the fall timeout timer
 				_fallTimeoutDelta = FallTimeout;
+
+				//reset jumps in a row
+				countJumps = 1;
 
 				// stop our velocity dropping infinitely when grounded
 				if (_verticalVelocity < 0.0f)
@@ -195,10 +202,11 @@ namespace StarterAssets
 				}
 
 				// Jump
-				if (_input.jump && _jumpTimeoutDelta <= 0.0f)
+				if (_input.jump && _jumpTimeoutDelta <= 0.0f && MaxJumps > 0)
 				{
 					// the square root of H * -2 * G = how much velocity needed to reach desired height
 					_verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
+					countJumps = 0;
 				}
 
 				// jump timeout
@@ -209,6 +217,15 @@ namespace StarterAssets
 			}
 			else
 			{
+				// Jump
+				if (_input.jump && countJumps < MaxJumps)
+				{
+					// the square root of H * -2 * G = how much velocity needed to reach desired height
+					_verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
+					countJumps++;
+				}
+
+
 				// reset the jump timeout timer
 				_jumpTimeoutDelta = JumpTimeout;
 

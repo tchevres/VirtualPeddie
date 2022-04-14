@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637848637996112818
-    m_Hash: 3213037738
+      ticks: 637853749530014773
+    m_Hash: 296236989
   m_LockFileStatus:
     m_FilePath: C:/Users/compsci/Documents/VirtualPeddie/Testing/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637848637996163259
-    m_Hash: 2276839781
+      ticks: 637853749530064808
+    m_Hash: 2872806526
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -865,6 +865,83 @@ m_PackageAssets:
         url: https://github.com/Unity-Technologies/com.unity.probuilder.git
         revision: 27f52072e5f94638d1f81bc53df38e59d5bac785
         path: 
+    - packageId: com.unity.progrids@3.0.3-preview.6
+      testable: 0
+      isDirectDependency: 1
+      version: 3.0.3-preview.6
+      source: 1
+      resolvedPath: C:\Users\compsci\Documents\VirtualPeddie\Testing\Library\PackageCache\com.unity.progrids@3.0.3-preview.6
+      assetPath: Packages/com.unity.progrids
+      name: com.unity.progrids
+      displayName: ProGrids
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'Advanced grid and object snapping for the scene view. ProGrids
+        is a dynamically placed grid, available on all 3 axes and at any position
+        in the scene.
+
+
+        ProGrids snaps objects in world space, ensuring consistent
+        placement of objects in your level.
+
+
+        In addition, ProGrids is completely
+        customizable. Change the colors of your grid, the snap sizing, unit of measurement,
+        and more!'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 3.0.1-preview
+        - 3.0.2-preview
+        - 3.0.3-preview.0
+        - 3.0.3-preview.4
+        - 3.0.3-preview.5
+        - 3.0.3-preview.6
+        compatible:
+        - 3.0.1-preview
+        - 3.0.2-preview
+        - 3.0.3-preview.0
+        - 3.0.3-preview.4
+        - 3.0.3-preview.5
+        - 3.0.3-preview.6
+        verified: 
+      dependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.2
+      resolvedDependencies:
+      - name: com.unity.settings-manager
+        version: 1.0.3
+      keywords:
+      - grid
+      - snap
+      - manipulation
+      - array
+      - align
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637209307060000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.unity.progrids.git
+        revision: 381f2b0b5dda11525d53e2c608284a3f68d1beff
+        path: 
     - packageId: com.unity.render-pipelines.universal@10.8.1
       testable: 0
       isDirectDependency: 1
@@ -930,8 +1007,10 @@ m_PackageAssets:
         - 10.7.0
         - 10.8.0
         - 10.8.1
+        - 10.9.0
         compatible:
         - 10.8.1
+        - 10.9.0
         verified: 10.8.1
       dependencies:
       - name: com.unity.mathematics
@@ -3485,8 +3564,10 @@ m_PackageAssets:
         - 10.7.0
         - 10.8.0
         - 10.8.1
+        - 10.9.0
         compatible:
         - 10.8.1
+        - 10.9.0
         verified: 10.8.1
       dependencies:
       - name: com.unity.ugui
@@ -3645,8 +3726,10 @@ m_PackageAssets:
         - 10.7.0
         - 10.8.0
         - 10.8.1
+        - 10.9.0
         compatible:
         - 10.8.1
+        - 10.9.0
         verified: 10.8.1
       dependencies:
       - name: com.unity.render-pipelines.core
@@ -3710,9 +3793,23 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.1.0-preview.4
+        - 0.1.0-preview.8
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
         - 1.0.3
+        - 2.0.0
+        - 2.0.1
         compatible:
+        - 0.1.0-preview.4
+        - 0.1.0-preview.8
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
         - 1.0.3
+        - 2.0.0
+        - 2.0.1
         verified: 1.0.3
       dependencies: []
       resolvedDependencies: []
@@ -3729,12 +3826,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637300096300000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: https://github.com/Unity-Technologies/com.unity.settings-manager.git
+        url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
         revision: 473664ccba1496294b741cf169740a5d54b3d0b6
         path: 
     - packageId: com.unity.services.core@1.0.1
