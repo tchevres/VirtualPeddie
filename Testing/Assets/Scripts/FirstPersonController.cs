@@ -193,7 +193,11 @@ namespace StarterAssets
 				_fallTimeoutDelta = FallTimeout;
 
 				//reset jumps in a row
+<<<<<<< HEAD
 				countJumps = 1;
+=======
+				countJumps=1;
+>>>>>>> 37c28a2c1d793f81a875ed252a2bdd381c2da7f0
 
 				// stop our velocity dropping infinitely when grounded
 				if (_verticalVelocity < 0.0f)
@@ -202,11 +206,19 @@ namespace StarterAssets
 				}
 
 				// Jump
+<<<<<<< HEAD
 				if (_input.jump && _jumpTimeoutDelta <= 0.0f && MaxJumps > 0)
 				{
 					// the square root of H * -2 * G = how much velocity needed to reach desired height
 					_verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
 					countJumps = 0;
+=======
+				if (_input.jump && _jumpTimeoutDelta <= 0.0f && MaxJumps>0)
+				{
+					// the square root of H * -2 * G = how much velocity needed to reach desired height
+					_verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
+					countJumps=0;
+>>>>>>> 37c28a2c1d793f81a875ed252a2bdd381c2da7f0
 				}
 
 				// jump timeout
@@ -216,9 +228,15 @@ namespace StarterAssets
 				}
 			}
 			else
+<<<<<<< HEAD
 			{
 				// Jump
 				if (_input.jump && countJumps < MaxJumps)
+=======
+			{	
+				// Jump
+				if (_input.jump && countJumps<MaxJumps)
+>>>>>>> 37c28a2c1d793f81a875ed252a2bdd381c2da7f0
 				{
 					// the square root of H * -2 * G = how much velocity needed to reach desired height
 					_verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
