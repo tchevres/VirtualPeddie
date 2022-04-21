@@ -363,6 +363,7 @@ m_PackageAssets:
         - 3.0.10
         - 3.0.12
         - 3.0.13
+        - 3.0.14
         compatible:
         - 1.0.2
         - 1.0.6
@@ -393,6 +394,7 @@ m_PackageAssets:
         - 3.0.10
         - 3.0.12
         - 3.0.13
+        - 3.0.14
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
