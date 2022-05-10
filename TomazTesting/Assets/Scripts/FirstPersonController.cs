@@ -22,6 +22,12 @@ namespace StarterAssets
 		public float SpeedChangeRate = 10.0f;
 
 		[Space(10)]
+		[Tooltip("Locks the player's movement")]
+		public bool LockMovement = false;
+		[Tooltip("Locks the player's camera rotation")]
+		public bool LockCamera = false;
+
+		[Space(10)]
 		[Tooltip("The height the player can jump")]
 		public float JumpHeight = 1.2f;
 		[Tooltip("The maximum amount of jumps the player can make in a row")]
@@ -106,13 +112,14 @@ namespace StarterAssets
 
 		private void Update()
 		{
-			JumpAndGravity();
-			GroundedCheck();
-			Move();
+			if(!LockMovement){
+				JumpAndGravity();
+				GroundedCheck();
+				Move();
+			}
+
 			if(_input.click){
 				holdClick++;
-				//Debug.Log("Click " + holdClick);
-
 				if(holdClick==1){//only activate on initial click
 					Look();
 				}
@@ -123,7 +130,7 @@ namespace StarterAssets
 
 		private void LateUpdate()
 		{
-			CameraRotation();
+			if(!LockCamera) CameraRotation();
 		}
 
 		private void GroundedCheck()
@@ -306,8 +313,13 @@ namespace StarterAssets
 
 		private void Trigger(RaycastHit HitInfo){
 			if(HitInfo.transform.CompareTag("Clickable")){
-				HitInfo.transform.BroadcastMessage("Trigger");
+				HitInfo.transform.BroadcastMessage("Trigger", this.gameObject);
 			}
+		}
+
+		public void LockPlayer(bool Lock){
+			//Debug.Log(Lock);
+			LockMovement = LockCamera = Lock;
 		}
 	}
 }
