@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637853749530014773
-    m_Hash: 296236989
+      ticks: 637871887980072657
+    m_Hash: 3085167947
   m_LockFileStatus:
     m_FilePath: C:/Users/compsci/Documents/VirtualPeddie/Testing/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637853749530064808
-    m_Hash: 2872806526
+      ticks: 637871887980072657
+    m_Hash: 1677682564
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -237,6 +237,7 @@ m_PackageAssets:
         - 1.14.13
         - 1.14.15
         - 1.14.16
+        - 1.14.17
         - 1.15.1
         - 1.15.4
         - 1.15.7
@@ -245,6 +246,7 @@ m_PackageAssets:
         - 1.15.13
         - 1.15.15
         - 1.15.16
+        - 1.15.17
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -259,6 +261,7 @@ m_PackageAssets:
         - 1.15.13
         - 1.15.15
         - 1.15.16
+        - 1.15.17
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -269,7 +272,7 @@ m_PackageAssets:
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
-        verified: 1.15.16
+        verified: 1.15.17
       dependencies:
       - name: com.unity.services.core
         version: 1.0.1
@@ -1120,10 +1123,12 @@ m_PackageAssets:
         - 1.1.29
         - 1.1.30
         - 1.1.31
+        - 2.0.1-exp.1
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         compatible:
         - 1.1.31
+        - 2.0.1-exp.1
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         verified: 1.1.31
@@ -3870,6 +3875,7 @@ m_PackageAssets:
         - 1.1.0-pre.69
         - 1.2.0
         - 1.3.1
+        - 1.3.2
         compatible:
         - 1.0.1
         - 1.1.0-pre.7
@@ -3881,6 +3887,7 @@ m_PackageAssets:
         - 1.1.0-pre.69
         - 1.2.0
         - 1.3.1
+        - 1.3.2
         verified: 1.0.1
       dependencies:
       - name: com.unity.modules.unitywebrequest
