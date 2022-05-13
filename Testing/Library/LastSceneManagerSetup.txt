@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Kaye.unity
+- path: Assets/Scenes/BlenderTest1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
