@@ -41,6 +41,7 @@ public class exclamationScript : MonoBehaviour
                 c.gameObject.SetActive(true);
             }
             returnObject.BroadcastMessage("LockPlayer", true);
+            returnObject.BroadcastMessage("SetLockObject", this.gameObject);
         }
         //runs once when disabled
         else{

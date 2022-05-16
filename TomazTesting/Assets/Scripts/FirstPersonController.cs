@@ -26,6 +26,8 @@ namespace StarterAssets
 		public bool LockMovement = false;
 		[Tooltip("Locks the player's camera rotation")]
 		public bool LockCamera = false;
+		[Tooltip("Object to trigger on click if player is locked")]
+		public GameObject LockObject;
 
 		[Space(10)]
 		[Tooltip("The height the player can jump")]
@@ -109,7 +111,6 @@ namespace StarterAssets
 		}
 
 
-
 		private void Update()
 		{
 			if(!LockMovement){
@@ -121,7 +122,12 @@ namespace StarterAssets
 			if(_input.click){
 				holdClick++;
 				if(holdClick==1){//only activate on initial click
-					Look();
+					if(LockMovement && LockCamera && LockObject!=null){
+						LockObject.BroadcastMessage("Trigger", this.gameObject);
+					}
+					else{
+						Look();
+					}
 				}
 			} else {
 				holdClick=0;
@@ -318,8 +324,10 @@ namespace StarterAssets
 		}
 
 		public void LockPlayer(bool Lock){
-			//Debug.Log(Lock);
 			LockMovement = LockCamera = Lock;
+		}
+		public void SetLockObject(GameObject newLockObj){
+			LockObject=newLockObj;
 		}
 	}
 }
