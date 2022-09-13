@@ -1,5 +1,5 @@
 Use the same
-1.Chair
+1.Chair (See Github:CommonObj)
 2.Large drawer
 3.Small Drawer
 4.Desk
