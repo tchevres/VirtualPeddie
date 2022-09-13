@@ -1,11 +1,15 @@
 Use the same
-1.Chair
-2.Large drawer
+1.Chair (Found)
+2.Large drawer(found one, not so good. Look for another one)
 3.Small Drawer
 4.Desk
 5.Pillow
-6.Bed(See Github)
+6.Bed(See Github PeddieBed, made by Dante. Moved into folder)
 
-Objects to Share
+Objects to Share (add more)
 1.Paintings
 2.Plants
+
+
+PS:
+The drawers and props on Github (not in this folder of course) need to be modified. Better option is to find stuff online. They're much more detailed
