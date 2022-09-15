@@ -13,5 +13,7 @@ Objects to Share (add more!!!!) (CommonObj_AddOn)
 3.All sorts of pillows and cushions (Found 1 type, look for more)
 
 
-PS
+PS:
 The drawers and props on Github (not in this folder of course) need to be modified. Better option is to find stuff online. They're much more detailed
+PPS:
+Sites: Grabcad and cgtrader
