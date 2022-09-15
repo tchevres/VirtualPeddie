@@ -1,4 +1,4 @@
-Use the same
+Use the same (CommonObj_Universal)
 1.Chair (Found)
 2.Large drawer(found one, not so good. Look for another one)
 3.Small Drawer
@@ -6,7 +6,7 @@ Use the same
 5.Pillow (Found)
 6.Bed(See Github PeddieBed, made by Dante. Moved into folder)
 
-Objects to Share (add more!!!!)
+Objects to Share (add more!!!!) (CommonObj_AddOn)
 1.Paintings
 2.Plants
 3.All sorts of pillows and cushions (Found 1 type, look for more)
