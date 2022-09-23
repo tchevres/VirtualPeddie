@@ -1,0 +1,24 @@
+The dimensions for objects in blender. 
+If you are to change an object into its correct dimensions. Don't just change one copy of it in blender. Change the source file on github, so in the future no one needs to do it again.
+
+Dorm Room:
+1.Height of ceiling: 8t
+2.Bed(Highest): 3ft
+3.Chair(Highest): 32in
+4.Big Drawer(Highest): 34in
+5.The shelfs built into the room: 6ft
+6.Window: 21.5in, 24 in, 25in, +60 (see pictures); width 54 in; width of frame: 2.5, 1. (Check the picture labeled "Window(Dimensions)")
+7.Door: -4in, 2in (Check the picture "Door(Dimensions)"
+8.Evacuation Sign: width 13in, height 57 in (Check picture "Evacuation Sign(Dimensions)"
+9.Light built on wall: 48in (highest); 4in, 6.5in, 12in (Check picture "Dorm Light(Dimensions)")
+10.Light switch: 48in (highest), 4.5 width (Check picture "Light Switch(Dimensions)")
+
+Hallway
+1.Door Sign: Height(highest): 60in, 7in, 5in 
+2.Handles o stairs: 36in (highest), 2in diameter
+3.Water foundatin: width of walls left and right: 14in, 30in; height (highet): 51in (Check the picture labeled "Water Fountain(Dimensions)")
+
+Lounge:
+1.Tall Table: 40in (highest)
+2.Couch: 24in (highest)
+
