@@ -21,4 +21,4 @@ Hallway
 Lounge:
 1.Tall Table: 40in (highest)
 2.Couch: 24in (highest)
-
+3.Stairs: 35.5in (from higher level,+7.5in to get height from ground), 7.5in (Check picture labeled "Lounge Stars(Dimensions)")
