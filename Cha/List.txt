@@ -1,9 +1,0 @@
-Dorm Room
-1.Bed (Found)
-2.Large Drawer
-3.Small Drawer
-4.PC Set (Found)
-5.Gaming Chair (Found)
-6.Chair
-7.Bean Bag
-9.Desk
