@@ -1,6 +1,7 @@
 Need to be scaled
-	KayeDorm model
-	Bed
-	Desk
-	Small Drawer
 	Large Drawer
+	Chair
+	PC sets
+	
+
+Need more miscellaneous objects
