@@ -25,6 +25,13 @@ For populating Kaye model:
 	Go to "BlenderKaye", make a copy of DefaultKaye, name it "DefaultKaye(Your Name)", work in this copy
 	Scale furnitures to the correct size, dimensions can be found in "dimensions.txt". Ones not included have dimensions in their 3D model files.
 	Update "Scaled"
-VERY IMPORTANT MUST READ: all the furniture stored are in real dimensions (1cm pencil in reality is stored as 1cm in the furniture folder). However, the model in blender is not in real dimensions, so for whatever u put in, scale it to 0.49860329604. Must do, remember.
-	
+VERY IMPORTANT MUST READ: all the furniture stored are in real dimensions (1cm pencil in reality is stored as 1cm in the furniture folder). However, the model in blender is not in real dimensions, so for whatever u put in, scale it to 2.00560246581. Must do, remember.
+2.00560246581
+2.00560246581
+2.00560246581
+2.00560246581
+2.00560246581
+2.00560246581
+2.00560246581
+2.00560246581
 	
