@@ -1,0 +1,1093 @@
+# Blender MTL File: 'DefaultDormRayActual.blend'
+# Material Count: 104
+
+newmtl 128,128,128
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.006
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.007
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.008
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.009
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.010
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 128,128,128.011
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 245,245,245
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.960784 0.960784 0.960784
+Ks 0.960784 0.960784 0.960784
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\EngineTurning.png
+
+newmtl 245,245,245.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.960784 0.960784 0.960784
+Ks 0.960784 0.960784 0.960784
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\EngineTurning.png
+
+newmtl 245,245,245.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.960784 0.960784 0.960784
+Ks 0.960784 0.960784 0.960784
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\EngineTurning.png
+
+newmtl 245,245,245.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.960784 0.960784 0.960784
+Ks 0.960784 0.960784 0.960784
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\EngineTurning.png
+
+newmtl 245,245,245.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.960784 0.960784 0.960784
+Ks 0.960784 0.960784 0.960784
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\EngineTurning.png
+
+newmtl 245,245,245.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.960784 0.960784 0.960784
+Ks 0.960784 0.960784 0.960784
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\EngineTurning.png
+
+newmtl 245,245,245.006
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.960784 0.960784 0.960784
+Ks 0.960784 0.960784 0.960784
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\EngineTurning.png
+
+newmtl 255,255,255
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(SmallDrawer)CommonObj_Universal_SmallDrawer\\SmallDrawer\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(SmallDrawer)CommonObj_Universal_SmallDrawer\\SmallDrawer\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(SmallDrawer)CommonObj_Universal_SmallDrawer\\SmallDrawer\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.006
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.007
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.008
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.009
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.010
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.011
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.012
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.013
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.014
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.015
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.016
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.017
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Bed Actual) CommonObj_Universal_BedActual\\BedActual\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.018
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.019
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.020
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.021
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(SmallDrawer)CommonObj_Universal_SmallDrawer\\SmallDrawer\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.022
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(SmallDrawer)CommonObj_Universal_SmallDrawer\\SmallDrawer\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.023
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(Desk)CommonObj_Universal_Desk\\Desk\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 255,255,255.024
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\(SmallDrawer)CommonObj_Universal_SmallDrawer\\SmallDrawer\\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl 90,98,102
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.006
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.007
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.008
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.009
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.010
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl 90,98,102.011
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.384314 0.400000
+Ks 0.379085 0.379085 0.379085
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material_001.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Ventura_2_wire
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\Chair6(ReallyGood)\\texture.png
+
+newmtl Ventura_2_wire.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\Chair6(ReallyGood)\\texture.png
+
+newmtl Ventura_2_wire.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\Chair6(ReallyGood)\\texture.png
+
+newmtl Ventura_2_wire.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\Chair6(ReallyGood)\\texture.png
+
+newmtl Ventura_2_wire.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\Chair6(ReallyGood)\\texture.png
+
+newmtl Ventura_2_wire.005
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\Chair6(ReallyGood)\\texture.png
+
+newmtl Ventura_2_wire.006
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\Chair6(ReallyGood)\\texture.png
+
+newmtl Ventura_2_wire.007
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\CommonObj\\CommonObj_Universal\\Chair6(ReallyGood)\\texture.png
+
+newmtl Wall
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Textures\\beige_wall_001_4k.blend\\textures\\beige_wall_001_nor_gl_4k.exr
+map_Ns D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Textures\\beige_wall_001_4k.blend\\textures\\beige_wall_001_rough_4k.jpg
+
+newmtl WoodFloor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Textures\\Wood Fine AI 01\\maps\\Wood_Fine_AI_01_COLOR.jpg
+
+newmtl WoodFloor.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Textures\\Wood Fine AI 01\\maps\\Wood_Fine_AI_01_COLOR.jpg
+
+newmtl blinn1SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl initialShadingGroup
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl lambert4SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl lambert5SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl lambert6SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl lambert7SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl lambert9SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl phong2SG
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl solid_001_wire.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.447059 0.447059 0.447059
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\Furniture Usable\\miscellaneous\\Luggage\\texture.png
+
+newmtl solid_001_wire.002
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.447059 0.447059 0.447059
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\Furniture Usable\\miscellaneous\\Luggage\\texture.png
+
+newmtl solid_001_wire.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.811765 0.811765 0.811765
+Ks 0.027451 0.027451 0.027451
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\Furniture Usable\\miscellaneous\\Slippers\\texture.png
+
+newmtl solid_001_wire.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.811765 0.811765 0.811765
+Ks 0.027451 0.027451 0.027451
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\Furniture Usable\\miscellaneous\\Slippers\\texture.png
+
+newmtl solid_001_wire.006
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.901961 0.901961 0.901961
+Ks 0.090196 0.090196 0.090196
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\Furniture Usable\\miscellaneous\\FanAuto\\texture.png
+
+newmtl solid_001_wire.007
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.350000 0.350000 0.350000
+Ke 0.600000 0.600000 0.600000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\Furniture Usable\\miscellaneous\\Pillow(OK)\\texture.png
+
+newmtl solid_001_wire.009
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.125490 0.125490 0.125490
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\Furniture Usable\\miscellaneous\\Paint+Brush\\texture.png
+
+newmtl solid_001_wire.010
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\Furniture Usable\\miscellaneous\\DollBunny\\texture.png
+
+newmtl solid_001_wire.012
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.350000 0.350000 0.350000
+Ke 0.600000 0.600000 0.600000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\MyProfile\\Documents\\GitHub\\VirtualPeddie\\Furniture\\Furniture Usable\\miscellaneous\\DollMonstrous\\texture.png
